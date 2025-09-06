@@ -36,10 +36,6 @@ html-css-projects-05/
 - Change colors, fonts, and images in `style.css` and `index.html` to match your brand.
 - Update content sections (hero, features, contact, etc.) as needed.
 
-## Demo
-
-![Landing Page Demo](demo.png)  
-*Screenshot of the landing page*
 
 ## License
 
