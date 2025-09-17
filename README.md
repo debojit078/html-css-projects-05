@@ -1,5 +1,6 @@
 # Simple Landing Page
 
+
 This project is a **simple landing page** built with HTML and CSS. It's designed as a starting point for web development beginners or anyone who wants a clean, responsive landing page template.
 
 ## Features
@@ -10,6 +11,8 @@ This project is a **simple landing page** built with HTML and CSS. It's designed
 - Simple HTML and CSS files; no frameworks required
 
 ## Getting Started
+
+Link: https://debojit078.github.io/html-css-projects-05/
 
 1. **Clone the repository**  
    ```
